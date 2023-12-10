@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 import Loader from 'react-loaders'
 import AnimatedLetters from '../AnimatedLetters'
 import './index.scss'
-import LogoA from '../../../assets/images/DLogo.png'
+import LogoA from '../../assets/images/DLogo.png'
 const About = () => {
   const [letterClass, setLetterClass] = useState('text-animate')
 
