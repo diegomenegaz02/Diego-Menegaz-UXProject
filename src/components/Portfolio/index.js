@@ -58,12 +58,6 @@ const Portfolio = () => {
 
               </p>
             </div>
-            <div className="picture" align = "RIGHT">
-                <h1>
-                    DayDream HighFedility Mock Up
-                </h1>
-            <img src={LogoU} alt="Logo" />
-            </div>
           </div>
           <Loader type="pacman" />
         </>
